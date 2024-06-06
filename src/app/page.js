@@ -5,7 +5,7 @@ import DynamicMap from "./components/map/MapComponent"
 import theme from "./assets/theme"
 import { useState } from 'react'
 import Alert from "./components/Alert"
-import alertContents from "./cardAlertContent.json"
+import alertContents from "./assets/texts/cardAlertContent.json"
 
 
 export default function Carte () {
