@@ -1,6 +1,6 @@
 "use server"
 import { Resend } from "resend"
-import EmailContact from "../../react-email-starter/emails/EmailContact"
+import EmailContact from "../../../react-email-starter/emails/EmailContact"
 
 export const sendEmail = async (prevState, formData) => {
   const name = formData.get("name")

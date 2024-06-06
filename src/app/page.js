@@ -2,9 +2,9 @@
 
 import { Stack, Typography, Divider, Button, Box } from '@mui/material'
 import DynamicMap from "./components/map/MapComponent"
-import theme from "./theme"
+import theme from "./assets/theme"
 import { useState } from 'react'
-import Alert from "./Alert"
+import Alert from "./components/Alert"
 import alertContents from "./cardAlertContent.json"
 
 

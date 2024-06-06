@@ -1,11 +1,11 @@
 'use client'
 
 import { Typography, Stack, Box, Divider } from "@mui/material"
-import theme from "../theme"
-import IconsBox from "../homepageComponents/IconsBox"
-import ImagesList from "../homepageComponents/ImagesList"
-import OyasArgument from "../homepageComponents/OyasArguments"
-import AdvisesUses from "../homepageComponents/AdvisesUses"
+import theme from "../assets/theme"
+import IconsBox from "../components/IconsBox"
+import ImagesList from "../components/ImagesList"
+import OyasArgument from "../components/OyasArguments"
+import AdvisesUses from "../components/AdvisesUses"
 
 
 export default function Home() {

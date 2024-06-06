@@ -1,7 +1,7 @@
 "use client"
 
 import { Typography, Stack } from "@mui/material"
-import theme from "../theme"
+import theme from "../assets/theme"
 import texts from "../assets/texts/legals.json"
 
 

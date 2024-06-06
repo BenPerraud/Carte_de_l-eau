@@ -1,7 +1,7 @@
 'use client'
 
 import { Accordion, AccordionDetails, AccordionSummary, Stack, Typography } from "@mui/material"
-import theme from "../theme"
+import theme from "../assets/theme"
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
 import { useState } from "react"
 

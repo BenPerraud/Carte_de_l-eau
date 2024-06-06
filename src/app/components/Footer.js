@@ -1,7 +1,7 @@
 "use client"
 
 import { AppBar, Toolbar, Box, Typography, Stack, Divider } from "@mui/material"
-import theme from "../theme"
+import theme from "../assets/theme"
 import logo from "../assets/image/favicon.ico"
 import Link from 'next/link'
 import Image from "next/image"
@@ -63,7 +63,7 @@ export default function Footer() {
               <Stack direction="column" spacing={1}>
                 <Typography variant="subtitle1" sx={title}>Notre engagement</Typography>
                 <Link href="/oya" style={link}>Un oya ?</Link>
-                <Link href="https://terraoya.fr/" style={link}>TERRA OYA</Link>
+                <Link href="https://terraoya.fr/" style={link} target="_blank">TERRA OYA</Link>
               </Stack>
               <Stack direction="column" spacing={1}>
                 <Typography variant="subtitle1" sx={title}>Informations légales</Typography>

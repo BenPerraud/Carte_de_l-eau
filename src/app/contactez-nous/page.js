@@ -1,11 +1,11 @@
 "use client"
 
-import theme from "../theme"
+import theme from "../assets/theme"
 import { Typography, Stack, Divider, Box, FormControl, TextField, Button } from "@mui/material"
 import Image from "next/image"
 import photo1 from "../assets/image/LogoCompleted.png"
 import SendIcon from '@mui/icons-material/Send'
-import { sendEmail } from "../actions"
+import { sendEmail } from "../lib/actions"
 import { useEffect } from "react"
 import { useFormState } from "react-dom"
 import { redirect } from "next/navigation"

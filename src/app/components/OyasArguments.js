@@ -1,7 +1,7 @@
 'use client'
 
 import { Stack, Typography } from "@mui/material"
-import theme from "../theme"
+import theme from "../assets/theme"
 import WaterDropIcon from '@mui/icons-material/WaterDrop'
 import AccessTimeIcon from '@mui/icons-material/AccessTime'
 import ForestIcon from '@mui/icons-material/Forest'

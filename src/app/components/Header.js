@@ -4,7 +4,7 @@ import { AppBar, Toolbar, Box, Typography } from "@mui/material"
 import logo from "../assets/image/favicon.ico"
 import Image from "next/image"
 import Link from 'next/link'
-import theme from "../theme"
+import theme from "../assets/theme"
 
 export default function Header() {
   
