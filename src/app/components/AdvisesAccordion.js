@@ -2,7 +2,7 @@
 
 import { Accordion, AccordionDetails, AccordionSummary, Stack, Typography } from "@mui/material"
 import theme from "../assets/theme"
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 import { useState } from "react"
 
 export default function AdvisesAccordion({title, description}) {
@@ -31,7 +31,7 @@ export default function AdvisesAccordion({title, description}) {
     return (
         <Accordion onChange={handleClick} sx={{border: "1px solid", borderColor: theme.palette.secondary.main}}>
             <AccordionSummary
-                expandIcon={<ExpandMoreIcon fontSize="large" sx={{color: theme.palette.primary.dark }}/>}
+                expandIcon={<ArrowDropDownIcon fontSize="large" sx={{color: theme.palette.primary.dark }}/>}
                 aria-controls="panel2-content"
                 id="panel2-header"
                 sx={accordionSummary}
