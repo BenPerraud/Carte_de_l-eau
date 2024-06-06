@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Comment installer un oya ?",
+        "description" : [
+            "- Etape 1 : creuser un trou dans votre massif",
+            "- Etape 2 :  y mettre l'oya",
+            "- Etape 3 : remplissez votre oya d'eau",
+            "- Etape 4 : laissez vos plantes grandir"
+        ]
+    },
+    {
+        "title": "Comment entretenir mon oya ?",
+        "description" : [
+            "- Il est préférable de déterrer les oyas durant l'hiver dans les zones sujettes au gel.",
+            "- Du fait de sa porosité, le gel pourrait faire exploser l'oya.",
+            "- Nettoyer les à l'eau une fois par an.",
+            "- Laisser toujours le couvercle pour éviter que des insectes ne rentrent dans l'oya."
+        ]
+    },
+    {
+        "title": "Quel est le rayon d'arrosage de l'oya ?",
+        "description" : [
+            "- L'oya libère de l'eau dans chaque direction sur une longueur égale à son diamètre.",
+            "- Exemple: pour un oya de 30 cm de diamètre, celui-ci arrose sur 30 cm depuis son extérieur."
+        ]
+    },
+    {
+        "title": "Comment optimiser l'utilisation d'un oya ?",
+        "description" : [
+            "- Le meilleur conseil est de rajouter du paillage sur le sol, ce qui va permettre à l'humidité de rester en profondeur",
+            "- Dans ce cas-là, l'oya va difuser l'eau encore plus lentement car le sol restera humide"
+        ]
+    }
+]

@@ -1,95 +1,121 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+'use client'
 
-export default function Home() {
-  return (
-    <main className={styles.main}>
-      <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.js</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
+import { Stack, Typography, Divider, Button, Box } from '@mui/material'
+import DynamicMap from "./components/map/MapComponent"
+import theme from "./theme"
+import { useState } from 'react'
+import Alert from "./Alert"
+import alertContents from "./cardAlertContent.json"
 
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
 
-      <div className={styles.grid}>
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Docs <span>-&gt;</span>
-          </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
+export default function Carte () {
+    const [filter, setFilter] = useState("SUP")
+    const width = "80%"
+    
 
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Learn <span>-&gt;</span>
-          </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
-        </a>
+    const title = {
+        color: "#FFFFFF",
+        fontWeight: "bold",
+        textAlign: "center",
+        textTransform: "uppercase"
+    }
 
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Templates <span>-&gt;</span>
-          </h2>
-          <p>Explore starter templates for Next.js.</p>
-        </a>
+    const h6 = {
+        color: "#FFFFFF",
+        textAlign: "center",
+        width: width
+    }
+    
 
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Deploy <span>-&gt;</span>
-          </h2>
-          <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
-  );
+    const btnChooseSup = {
+        backgroundColor:
+            filter === "SUP" ?
+            theme.palette.primary.dark :
+            "#FFFFFF",
+        color: 
+            filter === "SUP" ?
+            "#FFFFFF" :
+            theme.palette.primary.dark,
+        fontWeight: "bold",
+        width: "150px",
+        height: "50px",
+        "&:hover": {
+            backgroundColor: 
+                filter === "SUP" ?
+                "#FFFFFF":
+                theme.palette.primary.dark,
+            color: 
+                filter === "SUP" ?
+                theme.palette.primary.dark:
+                "#FFFFFF"
+        }
+    }
+
+    const btnChooseSou = {
+        backgroundColor:
+            filter === "SOU" ?
+            theme.palette.primary.dark :
+            "#FFFFFF",
+        color: 
+            filter === "SOU" ?
+            "#FFFFFF" :
+            theme.palette.primary.dark,
+        fontWeight: "bold",
+        width: "150px",
+        height: "50px",
+        "&:hover": {
+            backgroundColor: 
+                filter === "SOU" ?
+                "#FFFFFF":
+                theme.palette.primary.dark,
+            color: 
+                filter === "SOU" ?
+                theme.palette.primary.dark:
+                "#FFFFFF"
+        }
+    }
+
+
+
+    function passToSup () {
+        setFilter("SUP")
+    }
+
+    function passToSou () {
+        setFilter("SOU")
+    }
+
+    return (
+        <Stack
+            direction="column"
+            spacing={6}
+            sx={{padding: 3, backgroundColor: theme.palette.primary.dark}}
+            divider={<Divider sx={{backgroundColor: "#FFFFFF"}}/>}
+            >
+            <Box></Box>
+            <Typography variant='h4' sx={title}>La situation de la sécheresse en France</Typography>
+            <Stack direction="column" spacing={6} justifyContent="center" alignItems="center">
+                <Typography variant='h6' sx={h6}>Les restrictions de prélèvements d'eau peuvent s'appliquer aussi bien sur les eaux de surface que les eaux souterraines, à destination des particuliers comme de l'agriculture, des entreprises ou des collectivités. Quatre niveaux d'alerte peuvent être déployés par les préfectures.</Typography>
+                <Stack direction="row" useFlexGap flexWrap="wrap" spacing={12}>
+                    {alertContents.map((item) =>
+                        <Alert
+                            key={item.level}
+                            level={item.level}
+                            content={item.content}
+                            color={item.color}
+                            sumup={item.sumup}    
+                        />
+                    )}
+                </Stack>
+                <Typography variant='h6' sx={h6}>La carte de l'eau recense tous les arrêtés préfectoraux de restriction d'eau en cours sur le territoire métropolitain. Les données sont disponibles depuis le site VigiEau (source gouvernementale) et distinguées entre les restrictions de préléments sur les eaux de surface et les restrictions de préléments sur les eaux souterraines</Typography>
+                <Stack direction="row" spacing={6} useFlexGap flexWrap="wrap">
+                    <Button variant='contained' size='small' onClick={passToSup} sx={btnChooseSup}>Eaux de surface</Button>
+                    <Button variant='contained' size='small' onClick={passToSou} sx={btnChooseSou}>Nappes phréatiques</Button>
+                </Stack>
+            </Stack>
+            <Box sx={{height: 700}}>
+                <DynamicMap filter={filter}/>
+            </Box>
+        </Stack>
+    )
 }

@@ -1,0 +1,26 @@
+[
+    {
+        "level": "Vigilance",
+        "sumup": "Informer les populations",
+        "content":"Informer la population sur le risque de sécheresse et inciter les particuliers et les professionnels à faire des économies d'eau. Ce niveau est uniquement incitatif. Aucune restriction légale n'y est associée",
+        "color": "#FFEDA0"
+    },
+    {
+        "level": "Alerte",
+        "sumup": "Restrictions d'eau",
+        "content":"Les autorités constatent que la situation s'aggrave malgré les mesures de prévention. Des restrictions légales en termes d'utilisation sont mises en place comme par exemple le lavage des véhicules hors des stations professionnelles, le remplissage de piscines privées ou l'arrosage des espaces verts, jardins ou des surfaces agricoles de 8h à 20h.",
+        "color": "#FEB24C"
+    },
+    {
+        "level": "Alerte renforcée",
+        "sumup": "Renforcement des restrictions",
+        "content":"Les mesures du niveau d'Alerte sont conservées, voire renforcées et de nouvelles mesures s'appliquent. Les restrictions supplémentaires peuvent être l'interdiction du lavage des voiries, équipements de loisirs, voitures, façades ou terrasse. L'arrosage des espaces verts, jardins, pelouses ou espaces sportifs est complétement interdit (à l'exception des potagers).",
+        "color": "#FC4E2A"
+    },
+    {
+        "level": "Crise",
+        "sumup": "Usages prioritaires",
+        "content":"Il s'agit du niveau ultime prévue si la situation persiste à se dégrader. L'arrosage de potagers privés, des greens de golf et des stades enherbés est interdit tout comme l'arrosage agricole par aspersion. Le lavage des voitures interdit ainsi que le remplissage de piscines ou de bassin.",
+        "color": "#B10026"
+    }
+]

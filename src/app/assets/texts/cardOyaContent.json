@@ -1,0 +1,88 @@
+[
+    {
+        "title": "Pour le jardin et les extérieurs",
+        "anchorName": "outdoor",
+        "description" : 
+            [
+                {
+                    "title": "Taille S - environ 0.3 L",
+                    "denomination": "Oyas extérieurs - Taille S",
+                    "denoSimplified": "OE-S",
+                    "content": "Idéal pour les petits pots de fleurs et les jardinières",
+                    "price": 10.99,
+                    "dimension": "6 cm x 6 cm"
+                },
+                {
+                    "title": "Taille M - environ 1.5 L",
+                    "denomination": "Oyas extérieurs - Taille M",
+                    "denoSimplified": "OE-M",
+                    "content": "Pour les massifs de fleurs ou les pieds de tomates",
+                    "price": 15.99,
+                    "dimension": "11 cm x 11 cm"
+                },
+                {
+                    "title": "Taille L - environ 5 L",
+                    "denomination": "Oyas extérieurs - Taille L",
+                    "denoSimplified": "OE-L",
+                    "content": "Pour le potager avec une réserve d'eau importante",
+                    "price": 27.99,
+                    "dimension": "18 cm x 18 cm"
+                },
+                {
+                    "title": "Taille XL - environ 10 L",
+                    "denomination": "Oyas extérieurs - Taille XL",
+                    "denoSimplified": "OE-XL",
+                    "content": "Parfait pour les arbustes et les arbres fruitiers nouvellement plantés",
+                    "price": 45.99,
+                    "dimension": "30 cm x 30 cm"
+                }
+            ]
+    },
+    {
+        "title": "Pour l'intérieur et les jardinières",
+        "anchorName": "indoor",
+        "description" : 
+            [
+                {
+                    "title": "Taille S - environ 0.5 L",
+                    "denomination": "Oyas intérieurs - Taille M",
+                    "denoSimplified": "OP-M",
+                    "content": "Idéal pour les petits pots de fleurs et les jardinières",
+                    "price": 45.99,
+                    "dimension": "10 cm x 10 cm"
+                },
+                {
+                    "title": "Taille M - environ 1.5 L",
+                    "denomination": "Oyas intérieurs - Taille M",
+                    "denoSimplified": "OP-M",
+                    "content": "Idéal pour les grandes plantes d'intérieur",
+                    "price": 30.99,
+                    "dimension": "15 cm x 15 cm"
+                }
+            ]
+    },
+    {
+        "title": "Les packs économiques",
+        "anchorName": "packs",
+        "description" : 
+            [
+                {
+                    "title": "Pack 1 - 3 Oyas extérieurs + 1 Oya intérieur",
+                    "denomination": "Oyas intérieurs - Taille M",
+                    "denoSimplified": "OP-M",
+                    "content": "Idéal pour les petits pots de fleurs et les jardinières",
+                    "price": 45.99,
+                    "dimension": "cf chaque oya"
+                },
+                {
+                    "title": "Pack 2 - 6 oyas exterieurs",
+                    "denomination": "Oyas intérieurs - Taille M",
+                    "denoSimplified": "OP-M",
+                    "content": "Idéal pour les grandes plantes d'intérieur",
+                    "price": 30.99,
+                    "dimension": "cf chaque oya"
+                }
+            ]
+    }
+
+]
