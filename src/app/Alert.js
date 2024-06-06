@@ -1,6 +1,4 @@
-import { Card, Typography, CardContent, CardActions, IconButton, Collapse, Button } from "@mui/material"
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
-import { useState, useEffect } from "react"
+import { Card, Typography, CardContent } from "@mui/material"
 import theme from "./theme"
 
 export default function Alert ({level, content, color, sumup}) {
