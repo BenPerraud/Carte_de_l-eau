@@ -1,0 +1,215 @@
+[
+    {
+        "id#": 0,
+        "id": "header_1",
+        "data": [
+            {
+                "content": "A propos",
+                "link": "/a_propos",
+                "target":"_self"
+            },
+            {
+                "content": "Contact",
+                "link": "/contactez-nous",
+                "target":"_self"
+            },
+            {
+                "content": "TERRA OYA",
+                "link": "https://www.terraoya.fr",
+                "target":"_blank"
+            }
+        ]
+    },
+    {
+        "id#": 1,
+        "id": "Breadcrumbs",
+        "data": [
+            {
+                "content": "Sécheresse",
+                "link": "/secheresse",
+                "icon": "InvertColorsOffIcon"
+            },
+            {
+                "content": "Péziometrie",
+                "link": "/peziometrie",
+                "icon": "subject2"
+            },
+            {
+                "content": "Hydrométrie",
+                "link": "/hydrometrie",
+                "icon": "subject3"
+            }
+        ]
+    },
+    {
+        "id#": 2,
+        "id": "Search menu",
+        "data": [
+            {
+                "category" : "Sécheresse",
+                "list" : [
+                    {
+                        "title" : "Les Ressources en Eau Renouvelable en France : Comprendre et Agir",
+                        "link" : "/secheresse/art_1"
+                    },
+                    {
+                        "title" : "Différences entre eau prélevée et eau consommée",
+                        "link" : "/secheresse/art_2"
+                    },
+                    {
+                        "title" : "Les Arrêtés Préfectoraux Sécheresse en France",
+                        "link" : "/secheresse/art_3"
+                    }
+                ]
+            },
+            {
+                "category" : "Péziométrie",
+                "list" : [
+                    {
+                        "title" : "Qu’est-ce qure’une nappe phréatique ?",
+                        "link" : "/peziometrie/art_1"
+                    },
+                    {
+                        "title" : "La Piézométrie : Comprendre les Niveaux d’Eau Sous-Terrains ?",
+                        "link" : "/peziometrie/art_2"
+                    },
+                    {
+                        "title" : "La qualité de l’eau dans les nappes phréatiques",
+                        "link" : "/peziometrie/art_3"
+                    }
+                ]
+            },
+            {
+                "category" : "Hydrométrie",
+                "list" : [
+                    {
+                        "title" : "Le cycle des précipitations : comment l'eau tombe-t-elle du ciel ?",
+                        "link" : "/hydrometrie/art_1"
+                    },
+                    {
+                        "title" : "Évolution des précipitations en France depuis le 20ᵉ Siècle",
+                        "link" : "/hydrometrie/art_2"
+                    },
+                    {
+                        "title" : "Les pluies et leur rôle dans la recharge des nappes phréatiques",
+                        "link" : "/hydrometrie/art_3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id#": 3,
+        "id": "FullList",
+        "filter": "-",
+        "data":
+            [
+                {
+                    "title" : "Les Ressources en Eau Renouvelable en France : Comprendre et Agir",
+                    "link" : "/secheresse/art_1",
+                    "img" : "/secheresse_1.webp",
+                    "resume" : "L’eau est une ressource essentielle à la vie et un pilier de nos activités économiques et environnementales. En France, les ressources en eau renouvelable jouent un rôle clé dans l’approvisionnement en eau potable, l’irrigation agricole, et la production d’énergie. Cet article explore ce qu’est une ressource en eau renouvelable, sa situation en France, et les défis à relever pour une gestion durable.",
+                    "category" : "Sécheresse"
+                },
+                {
+                    "title" : "Différences entre eau prélevée et eau consommée",
+                    "link" : "/secheresse/art_2",
+                    "img" : "/secheresse_2.webp",
+                    "resume" : "xxniejoe oe,cle,ms ocmemlc",
+                    "category" : "Sécheresse"
+                },
+                {
+                    "title" : "Les arrêtés préfectoraux Sécheresse en France",
+                    "link" : "/secheresse/art_3",
+                    "img" : "/secheresse_3.webp",
+                    "resume" : "Face aux épisodes de sécheresse de plus en plus fréquents et intenses en France, les arrêtés préfectoraux sécheresse jouent un rôle clé dans la gestion de l'eau. Ces mesures réglementaires visent à prévenir les pénuries et à protéger les milieux aquatiques en période de stress hydrique. Cet article explique leur fonctionnement, leur évolution, et leur importance dans le contexte actuel du changement climatique.",
+                    "category" : "Sécheresse"
+                },
+                {
+                    "title" : "Qu’est-ce qu’une nappe phréatique ?",
+                    "link" : "/peziometrie/art_1",
+                    "img" : "/peziometrie_1.png",
+                    "resume" : "xxniejoe oe,cle,ms ocmemlc",
+                    "category" : "Péziométrie"
+                },
+                {
+                    "title" : "La Piézométrie : Comprendre les Niveaux d’Eau Sous-Terrains ?",
+                    "link" : "/peziometrie/art_2",
+                    "img" : "/peziometrie_3.png",
+                    "resume" : "xxniejoe oe,cle,ms ocmemlc",
+                    "category" : "Péziométrie"
+                },
+                {
+                    "title" : "La qualité de l’eau dans les nappes phréatiques",
+                    "link" : "/peziometrie/art_3",
+                    "img" : "/peziometrie_3.png",
+                    "resume" : "xxniejoe oe,cle,ms ocmemlc",
+                    "category" : "Péziométrie"
+                },
+                {
+                    "title" : "Le cycle des précipitations : comment l'eau tombe-t-elle du ciel ?",
+                    "link" : "/hydrometrie/art_1",
+                    "img" : "/hydrometrie_1.png",
+                    "resume" : "Les précipitations, qu’il s’agisse de pluie, de neige ou de grêle, sont des phénomènes familiers et pourtant fascinants. Elles jouent un rôle essentiel dans le cycle de l’eau, alimentent les rivières, rechargent les nappes phréatiques, et soutiennent la vie sur Terre. Mais comment ces gouttes d’eau tombent-elles du ciel ? Plongeons dans le mécanisme complexe et captivant du cycle des précipitations.",
+                    "category" : "Hydrométrie"
+                },
+                {
+                    "title" : "Évolution des précipitations en France depuis le 20ᵉ Siècle",
+                    "link" : "/hydrometrie/art_2",
+                    "img" : "/hydrometrie_2.png",
+                    "resume" : "Le climat de la France, historiquement tempéré, connaît des transformations profondes sous l’effet du réchauffement climatique. Parmi ces changements, l’évolution des précipitations, tant en termes de quantité que de répartition, soulève des enjeux majeurs pour l’environnement, l’agriculture, et les ressources en eau. Cet article explore comment les précipitations en France ont évolué depuis le 20ᵉ siècle et quelles tendances se dessinent pour l’avenir.",
+                    "category" : "Hydrométrie"
+                },
+                {
+                    "title" : "Les Pluies et leur Rôle dans la Recharge des Nappes Phréatiques",
+                    "link" : "/hydrometrie/art_3",
+                    "img" : "/hydrometrie_3.png",
+                    "resume" : "L’eau souterraine constitue une ressource essentielle pour l’approvisionnement en eau potable, l’agriculture, et les écosystèmes. Les nappes phréatiques, ces réservoirs souterrains, se rechargent principalement grâce aux précipitations. Cependant, ce processus naturel est complexe et dépend de nombreux facteurs. Dans cet article, nous expliquons comment les pluies participent à la recharge des nappes phréatiques, les enjeux associés et les défis posés par le changement climatique.",
+                    "category" : "Hydrométrie"
+                }
+            ]
+    },
+    {
+        "id#": 4,
+        "id": "Footer",
+        "data": [
+            {
+                "title" : "Thématiques",
+                "pages" : [
+                    {
+                        "content" : "Sécheresse",
+                        "link" : "/secheresse",
+                        "target":"_self"
+
+                    },
+                    {
+                        "content" : "Péziométrie",
+                        "link" : "/peziometrie",
+                        "target":"_self"
+                    },
+                    {
+                        "content" : "Hydrométrie",
+                        "link" : "/hydrometrie",
+                        "target":"_self"
+                    }
+                ]
+            },
+            {
+                "title": "Informations légales",
+                "pages": [
+                    {
+                        "content" : "Contactez-nous",
+                        "link" : "/contactez-nous",
+                        "target":"_self"
+                    },
+                    {
+                        "content" : "Mentions légales",
+                        "link" : "/mentions-legales",
+                        "target":"_self"
+                    }
+                ]
+            }
+        ]
+    }
+
+]

@@ -3,10 +3,10 @@
 import { ImageList, ImageListItem, ImageListItemBar, Box, Typography, Stack } from "@mui/material"
 import Link from 'next/link'
 import Image from "next/image"
-import image1 from "../assets/image/image1.jpg"
-import image2 from "../assets/image/image2.jpg"
-import image3 from "../assets/image/image3.jpg"
-import theme from "../assets/theme"
+import image1 from "../../assets/image/image1.jpg"
+import image2 from "../../assets/image/image2.jpg"
+import image3 from "../../assets/image/image3.jpg"
+import theme from "../../assets/theme"
 
 export default function ImagesList () {
 

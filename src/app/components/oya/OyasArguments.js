@@ -1,13 +1,13 @@
 'use client'
 
 import { Stack, Typography } from "@mui/material"
-import theme from "../assets/theme"
+import theme from "../../assets/theme"
 import WaterDropIcon from '@mui/icons-material/WaterDrop'
 import AccessTimeIcon from '@mui/icons-material/AccessTime'
 import ForestIcon from '@mui/icons-material/Forest'
-import image1 from "../assets/image/image1.jpg"
-import image2 from "../assets/image/image2.jpg"
-import image3 from "../assets/image/image3.jpg"
+import image1 from "../../assets/image/image1.jpg"
+import image2 from "../../assets/image/image2.jpg"
+import image3 from "../../assets/image/image3.jpg"
 import Image from "next/image"
 
 export default function OyasArgument () {

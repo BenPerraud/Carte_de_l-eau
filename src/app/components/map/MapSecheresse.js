@@ -1,7 +1,7 @@
 import { Typography } from "@mui/material"
 import dynamic from "next/dynamic"
 
-const DynamicMap = dynamic(() => import("./index"), {
+const DynamicMap = dynamic(() => import("./indexSecheresse"), {
     loading: () => 
         <Typography
             variant="subtitle1"
@@ -13,7 +13,7 @@ const DynamicMap = dynamic(() => import("./index"), {
         >
             Chargement de la carte...
         </Typography>,
-    ssr: false
+        ssr: false
 })
 
 export default DynamicMap

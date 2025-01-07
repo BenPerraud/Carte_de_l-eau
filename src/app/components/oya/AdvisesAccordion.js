@@ -1,7 +1,7 @@
 'use client'
 
 import { Accordion, AccordionDetails, AccordionSummary, Stack, Typography } from "@mui/material"
-import theme from "../assets/theme"
+import theme from "../../assets/theme"
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 import { useState } from "react"
 

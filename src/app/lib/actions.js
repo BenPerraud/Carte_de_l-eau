@@ -10,8 +10,8 @@ export const sendEmail = async (prevState, formData) => {
     const resend = new Resend(process.env.RESEND_API_KEY)
     await resend.emails.send({
       from: email,
-      to: "contact@terraoya.fr",
-      subject: "Contact Terraoya.fr",
+      to: "benjaminperraud@outlook.fr",
+      subject: "Contact Carte de l'eau",
       react: EmailContact({ name, email, message })
     })
     return {

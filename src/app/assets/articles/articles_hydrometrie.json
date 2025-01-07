@@ -1,0 +1,272 @@
+[
+    {
+        "id" : "article_hydrometrie_1",
+        "link" : "/hydrometrie/art_1",
+        "img" : "/hydrometrie_1.png",
+        "title" : "Le cycle des précipitations : comment l'eau tombe-t-elle du ciel ?",
+        "resume" : "Les précipitations, qu’il s’agisse de pluie, de neige ou de grêle, sont des phénomènes familiers et pourtant fascinants. Elles jouent un rôle essentiel dans le cycle de l’eau, alimentent les rivières, rechargent les nappes phréatiques, et soutiennent la vie sur Terre. Mais comment ces gouttes d’eau tombent-elles du ciel ? Plongeons dans le mécanisme complexe et captivant du cycle des précipitations.",
+        "definition" : {
+            "title" : "Le cycle de l’eau : une machine naturelle en mouvement",
+            "content" : [
+                {
+                    "id" : "article_hydrometrie_1_def_1",
+                    "content" : "Les précipitations sont une étape clé du cycle de l’eau, un processus continu de transformation et de déplacement de l’eau sur Terre"
+                }
+            ]
+        },
+        "content1": {
+            "title" : "Le cycle de l’eau : une machine naturelle en mouvement",
+            "content" : [
+                {
+                    "subtitle" : "L’évaporation et la transpiration",
+                    "content" : "Sous l’effet du soleil, l’eau des océans, des lacs, des rivières et du sol s’évapore pour passer de l’état liquide à l’état gazeux. Les plantes, elles aussi, libèrent de l’eau sous forme de vapeur lors de la transpiration"
+                },
+                {
+                    "subtitle" : "La condensation",
+                    "content" : "Une fois dans l’atmosphère, la vapeur d’eau monte et se refroidit. À mesure que la température baisse, la vapeur se condense autour de particules microscopiques (poussières, sel marin, pollens) pour former de minuscules gouttelettes d’eau ou cristaux de glace. Ces millions de particules s’assemblent pour créer des nuages."
+                },
+                {
+                    "subtitle" : "Les précipitations",
+                    "content" : "Lorsque les gouttelettes ou les cristaux deviennent trop lourds pour rester suspendus dans l’air, ils tombent sous forme de précipitations. La nature de ces précipitations dépend des conditions atmosphériques, notamment de la température."
+                }
+            ]
+        },
+        "content2": {
+            "title" : "Quels sont les différents types de précipitations ?",
+            "content" : [
+                {
+                    "subtitle" : "La pluie",
+                    "content" : "C’est la forme de précipitation la plus courante. Les gouttelettes d’eau dans les nuages fusionnent pour atteindre une taille suffisante, puis tombent sous l’effet de la gravité."
+                },
+                {
+                    "subtitle" : "La neige",
+                    "content" : "Lorsque la température dans le nuage et à la surface est inférieure à 0°C, la vapeur d’eau se transforme directement en cristaux de glace, formant les flocons de neige."
+                },
+                {
+                    "subtitle" : "Le grésil et la grêle",
+                    "content" : "Ces précipitations solides se forment dans des conditions spécifiques. La grêle naît dans des nuages orageux où les gouttelettes d’eau gèlent en couches successives avant de tomber."
+                },
+                {
+                    "subtitle" : "Le brouillard givrant",
+                    "content" : "Lorsqu’une fine pluie ou un brouillard rencontre une surface glacée, les gouttelettes gèlent instantanément."
+                }
+            ]
+        },
+        "content3": {
+            "title" : "Les mécanismes déclencheurs des précipitations",
+            "content" : [
+                {
+                    "subtitle" : "L’effet orographique",
+                    "content" : "Lorsqu’une masse d’air humide rencontre une montagne, elle est forcée de s’élever. En montant, elle se refroidit, favorisant la condensation et les précipitations. C’est pourquoi les versants exposés au vent sont souvent plus pluvieux."
+                },
+                {
+                    "subtitle" : "Les fronts météorologiques",
+                    "content" : "Les précipitations se produisent souvent lorsqu’une masse d’air chaud rencontre une masse d’air froid. L’air chaud, plus léger, monte au-dessus de l’air froid, entraînant la formation de nuages et de précipitations."
+                },
+                {
+                    "subtitle" : "La convection",
+                    "content" : "Dans les régions chaudes, l’air proche du sol s’échauffe, monte rapidement et se refroidit en altitude, provoquant des pluies souvent intenses, typiques des orages estivaux."
+                }
+            ]
+        },
+        "synthesis" : [
+            {
+                "id" : "article_hydrometrie_1_synthesis_1",
+                "content" : "Le cycle des précipitations est un élément clé du fonctionnement de notre planète. Comprendre ce processus permet de mieux appréhender les enjeux liés à l’eau, une ressource vitale mais fragile."
+            },
+            {
+                "id" : "article_hydrometrie_1_synthesis_2",
+                "content" : "En tant qu’humains, notre rôle est de limiter les impacts négatifs sur ce cycle, notamment en réduisant les émissions de gaz à effet de serre, en gérant durablement l’eau, et en protégeant les écosystèmes qui favorisent les précipitations, comme les forêts."
+            },
+            {
+                "id" : "article_hydrometrie_1_synthesis_3",
+                "content" : "Le réchauffement climatique modifie les régimes de précipitations. Certaines régions deviennent plus arides, tandis que d’autres subissent des pluies plus intenses et fréquentes, augmentant les risques d’inondations."
+            }
+        ]
+    },{
+        "id" : "article_hydrometrie_2",
+        "link" : "/hydrometrie/art_2",
+        "img" : "/hydrometrie_2.png",
+        "title" : "Évolution des précipitations en France depuis le 20ᵉ Siècle",
+        "resume" : "Le climat de la France, historiquement tempéré, connaît des transformations profondes sous l’effet du réchauffement climatique. Parmi ces changements, l’évolution des précipitations, tant en termes de quantité que de répartition, soulève des enjeux majeurs pour l’environnement, l’agriculture, et les ressources en eau. Cet article explore comment les précipitations en France ont évolué depuis le 20ᵉ siècle et quelles tendances se dessinent pour l’avenir.",
+        "definition" : {
+            "title" : "Les précipitations en France : une diversité géographique et saisonnière",
+            "content" : [
+                {
+                    "id" : "article_hydrometrie_2_def_1",
+                    "content" : "Climat océanique : Pluies régulières dans l’ouest et le nord-ouest."
+                },
+                {
+                    "id" : "article_hydrometrie_2_def_2",
+                    "content" : "Climat continental : Hivers secs et étés orageux dans le nord-est."
+                },
+                {
+                    "id" : "article_hydrometrie_2_def_3",
+                    "content" : "Climat méditerranéen : Pluies rares mais intenses en automne."
+                },
+                {
+                    "id" : "article_hydrometrie_2_def_4",
+                    "content" : "Climat montagnard : Précipitations abondantes, souvent sous forme de neige, dans les massifs."
+                }
+            ]
+        },
+        "content1": {
+            "title" : "Comment les précipitations ont-elles évolué depuis le 20ᵉ siècle ?",
+            "content" : [
+                {
+                    "subtitle" : "Une stabilité globale des volumes annuels",
+                    "content" : "Les données montrent que, sur l’ensemble du territoire français, les précipitations totales annuelles n’ont pas significativement diminué ou augmenté. Cependant, cette stabilité cache des variations importantes au niveau régional et saisonnier."
+                },
+                {
+                    "subtitle" : "Des précipitations plus contrastées selon les saisons",
+                    "content" : "Les hivers sont plus humides. En effet, depuis les années 1950, les précipitations hivernales ont augmenté, notamment dans le nord et l’ouest de la France. En revanche, les étés sont plus secs : les précipitations estivales ont diminué dans de nombreuses régions, en particulier dans le sud-ouest et autour du bassin méditerranéen."
+                },
+                {
+                    "subtitle" : "Des événements extrêmes plus fréquents",
+                    "content" : "Le réchauffement climatique a amplifié les phénomènes extrêmes : pluies torrentielles dans les zones méditerranéennes (épisodes cévenols, causant des inondations destructrices) et des sècheresses prolongées, notamment dans le sud de la France, où les déficits pluviométriques sont de plus en plus fréquents."
+                },
+                {
+                    "subtitle" : "Une répartition géographique inégale",
+                    "content" : "Des déficits croissants en raison de périodes prolongées sans pluie dans le Sud-est de la France pour une relative stabilité, avec des hivers plus pluvieux, dans le Nord-Ouest."
+                }
+            ]
+        },
+        "content2": {
+            "title" : "Quelles sont les causes de ces changements ?",
+            "content" : [
+                {
+                    "subtitle" : "Réchauffement des océans",
+                    "content" : "La hausse des températures de surface des océans influence l’évaporation et les flux d’humidité, modifiant ainsi les régimes pluviométriques."
+                },
+                {
+                    "subtitle" : "Modification des courants atmosphériques",
+                    "content" : "Le jet-stream, un courant d’air rapide en altitude, est devenu plus ondulant sous l’effet du réchauffement. Cela entraîne des blocages météorologiques, avec des périodes prolongées de pluie ou de sécheresse."
+                },
+                {
+                    "subtitle" : "Amplification des phénomènes extrêmes",
+                    "content" : "Un air plus chaud peut contenir davantage d’humidité, ce qui favorise des pluies intenses et soudaines. À l’inverse, les sols plus secs et les températures élevées accentuent les sécheresses."
+                }
+            ]
+        },
+        "content3": {
+            "title" : "Conséquences des évolutions pluviométriques",
+            "content" : [
+                {
+                    "subtitle" : "Impact sur les ressources en eau",
+                    "content" : "La diminution des précipitations estivales, combinée à une hausse de l’évaporation, entraîne une baisse des débits des cours d’eau et une recharge insuffisante des nappes phréatiques."
+                },
+                {
+                    "subtitle" : "Risque accru d’inondations",
+                    "content" : "Les pluies torrentielles, de plus en plus fréquentes, saturent les sols et les réseaux d’évacuation, provoquant des crues rapides et destructrices."
+                },
+                {
+                    "subtitle" : "Effets sur l’agriculture",
+                    "content" : "Les sécheresses estivales perturbent les cultures sensibles (maïs, blé) et augmentent la demande en irrigation, créant des tensions sur l’eau."
+                },
+                {
+                    "subtitle" : "Déclin des écosystèmes",
+                    "content" : "Les zones humides, déjà fragilisées, souffrent des sécheresses répétées, entraînant des pertes de biodiversité."
+                }
+            ]
+        },
+        "synthesis" : [
+            {
+                "id" : "article_hydrometrie_2_synthesis_1",
+                "content" : "L’évolution des précipitations en France depuis le 20ᵉ siècle témoigne d’un climat en mutation, marqué par des contrastes saisonniers et une intensification des phénomènes extrêmes"
+            },
+            {
+                "id" : "article_hydrometrie_2_synthesis_2",
+                "content" : "Si ces changements posent des défis majeurs, ils offrent aussi une opportunité : repenser nos usages et nos pratiques pour bâtir une résilience collective face à ce nouveau climat."
+            }
+        ]
+    },
+    {
+        "id" : "article_hydrometrie_3",
+        "link" : "/hydrometrie/art_3",
+        "img" : "/hydrometrie_3.png",
+        "title" : "Les Pluies et leur Rôle dans la Recharge des Nappes Phréatiques",
+        "resume" : "L’eau souterraine constitue une ressource essentielle pour l’approvisionnement en eau potable, l’agriculture, et les écosystèmes. Les nappes phréatiques, ces réservoirs souterrains, se rechargent principalement grâce aux précipitations. Cependant, ce processus naturel est complexe et dépend de nombreux facteurs. Dans cet article, nous expliquons comment les pluies participent à la recharge des nappes phréatiques, les enjeux associés et les défis posés par le changement climatique.",
+        "definition" : {
+            "title" : "Qu’est-ce qu’une nappe phréatique ?",
+            "content" : [
+                {
+                    "id" : "article_hydrometrie_3_def_1",
+                    "content" : "Une nappe phréatique est une réserve souterraine d’eau contenue dans un aquifère, une formation géologique poreuse qui permet l’accumulation et le déplacement de l’eau."
+                },
+                {
+                    "id" : "article_hydrometrie_3_def_2",
+                    "content" : "On distingue deux types de nappes à savoir les nappes libres (où l’eau est en contact direct avec l’atmosphère à travers le sol, sensibles aux variations climatiques) et les nappes captives (situées sous une couche imperméable, qui sont mieux protégées mais plus difficiles à exploiter)."
+                },
+                {
+                    "id" : "article_hydrometrie_3_def_3",
+                    "content" : "Les nappes phréatiques se rechargent principalement grâce aux précipitations qui infiltrent le sol."
+                }
+            ]
+        },
+        "content1": {
+            "title" : "Comment les pluies rechargent-elles les nappes phréatiques ?",
+            "content" : [
+                {
+                    "subtitle" : "Le processus d’infiltration",
+                    "content" : "Lorsqu’il pleut, l’eau qui tombe sur le sol suit plusieurs chemins : une partie s’écoule directement vers les rivières (ruissellement), une autre s’évapore ou est utilisée par la végétation (évapotranspiration) et une dernière partie s’infiltre dans le sol pour rejoindre les nappes phréatiques."
+                },
+                {
+                    "subtitle" : "Les étapes clés de la recharge",
+                    "content" : "La première étape est l'absorption par le sol : les sols doivent être suffisamment perméables pour laisser l’eau s’infiltrer. S'en suit le transit dans le sous-sol : l’eau traverse les couches poreuses jusqu’à atteindre la nappe phréatique. Enfin, on retrouve le stockage dans la nappe : l’eau s’accumule dans les espaces vides entre les grains de sable, gravier ou roches poreuses."
+                }
+            ]
+        },
+        "content2": {
+            "title" : "Quels facteurs influencent la recharge des nappes ?",
+            "content" : [
+                {
+                    "subtitle" : "Quantité et répartition des précipitations",
+                    "content" : "La recharge dépend de la fréquence, de l’intensité et de la durée des pluies. Les pluies légères et régulières favorisent une meilleure infiltration. Les précipitations intenses génèrent davantage de ruissellement, réduisant la part d’eau qui s’infiltre."
+                },
+                {
+                    "subtitle" : "Nature des sols",
+                    "content" : "Les sols perméables (sableux, gravillonneux) facilitent l’infiltration à l'inverse des sols imperméables (argileux, bétonnés en milieu urbain) qui limitent la recharge."
+                },
+                {
+                    "subtitle" : "Couverture végétale",
+                    "content" : "La végétation agit comme un régulateur. Elle réduit le ruissellement et favorise l’infiltration en ralentissant le flux de l’eau. Cependant, une couverture végétale trop dense peut augmenter l’évapotranspiration"
+                },
+                {
+                    "subtitle" : "Saisonnalité",
+                    "content" : "En hiver, l’évaporation est faible, et les sols, souvent saturés par la pluie, favorisent une recharge optimale. En été, les sols secs et l’évaporation élevée réduisent l’infiltration."
+                }
+            ]
+        },
+        "content3": {
+            "title" : "Comment préserver la recharge des nappes phréatiques ?",
+            "content" : [
+                {
+                    "subtitle" : "Réduire l’imperméabilisation des sols",
+                    "content" : "En milieu urbain, limiter les surfaces bétonnées permet de favoriser l’infiltration. Des solutions comme les pavés drainants ou les toits végétalisés peuvent aider."
+                },
+                {
+                    "subtitle" : "Restaurer les zones humides",
+                    "content" : "Les zones humides agissent comme des éponges naturelles, favorisant la recharge des nappes tout en réduisant le ruissellement."
+                },
+                {
+                    "subtitle" : "Privilégier une gestion durable de l’eau",
+                    "content" : "Réduire les prélèvements excessifs, notamment pour l’irrigation et encourager le recyclage des eaux usées pour certains usages non potables."
+                }
+            ]
+        },
+        "synthesis" : [
+            {
+                "id" : "article_hydrometrie_3_synthesis_1",
+                "content" : "Les pluies jouent un rôle fondamental dans la recharge des nappes phréatiques, mais ce processus est aujourd’hui menacé par les changements climatiques et les activités humaines."
+            },
+            {
+                "id" : "article_hydrometrie_3_synthesis_2",
+                "content" : "Pour préserver cette ressource vitale, il est essentiel d’adopter des pratiques durables et de mieux comprendre les dynamiques locales."
+            },
+            {
+                "id" : "article_hydrometrie_3_synthesis_3",
+                "content" : "Protéger les nappes phréatiques, c’est garantir l’accès à l’eau pour les générations futures."
+            }
+        ]
+    }
+]

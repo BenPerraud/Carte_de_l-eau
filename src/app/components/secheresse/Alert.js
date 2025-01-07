@@ -1,5 +1,5 @@
 import { Card, Typography, CardContent } from "@mui/material"
-import theme from "../assets/theme"
+import theme from "../../assets/theme"
 
 export default function Alert ({level, content, color, sumup}) {
 

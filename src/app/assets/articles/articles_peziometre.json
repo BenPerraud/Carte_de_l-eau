@@ -1,0 +1,285 @@
+[
+    {
+        "id" : "article_peziometre_1",
+        "link" : "/peziometrie/art_1",
+        "img" : "/peziometrie_2.png",
+        "title" : "Qu’est-ce qu’une nappe phréatique ?",
+        "resume" : "Les nappes phréatiques jouent un rôle clé dans l’approvisionnement en eau en France. Sources d’eau potable pour des millions de personnes, elles alimentent également les rivières et soutiennent la biodiversité aquatique. Pourtant, leur gestion est un défi crucial, notamment face aux pressions humaines et au changement climatique. Cet article explore la répartition des nappes phréatiques en France, leur localisation géographique et les tendances récentes concernant leurs niveaux d’eau.",
+        "definition" : {
+            "title" : "Qu’est-ce qu’une nappe phréatique ?",
+            "content" : [
+                {
+                    "id" : "article_peziometre_1_def_1",
+                    "content" : "Une nappe phréatique est une réserve souterraine d’eau contenue dans un aquifère, une formation géologique poreuse qui permet l’accumulation et le déplacement de l’eau."
+                },
+                {
+                    "id" : "article_peziometre_1_def_2",
+                    "content" : "On distingue deux types de nappes à savoir les nappes libres (où l’eau est en contact direct avec l’atmosphère à travers le sol, sensibles aux variations climatiques) et les nappes captives (situées sous une couche imperméable, qui sont mieux protégées mais plus difficiles à exploiter)."
+                },
+                {
+                    "id" : "article_peziometre_1_def_3",
+                    "content" : "Les nappes phréatiques se rechargent principalement grâce aux précipitations qui infiltrent le sol."
+                }
+            ]
+        },
+        "content1": {
+            "title" : "Répartition et localisation des nappes phréatiques en France",
+            "content" : [
+                {
+                    "subtitle" : "Les nappes alluviales des vallées fluviales",
+                    "content" : "Situées le long des grands cours d’eau comme la Seine, la Loire, le Rhône et la Garonne, ces nappes sont proches de la surface et jouent un rôle important dans l’approvisionnement en eau potable et l’irrigation."
+                },
+                {
+                    "subtitle" : "Le Bassin parisien",
+                    "content" : "Couvrant une grande partie du nord de la France, ce bassin abrite des nappes profondes comme celles du calcaire de Champigny et du calcaire de Beauce. Ces nappes sont d’une importance capitale pour l’eau potable, notamment en Île-de-France."
+                },
+                {
+                    "subtitle" : "Le Bassin aquitain",
+                    "content" : "Localisé dans le sud-ouest de la France, ce bassin comprend de vastes nappes comme celle des sables du Miocène, utilisées pour l’irrigation et l’eau potable."
+                },
+                {
+                    "subtitle" : "Les aquifères karstiques du sud-est et des Alpes",
+                    "content" : "Ces nappes se trouvent dans des formations calcaires où l’eau circule rapidement. Elles sont sensibles aux précipitations et aux variations saisonnières."
+                },
+                {
+                    "subtitle" : "Les nappes littorales",
+                    "content" : "Présentes le long des côtes (notamment en Provence et en Bretagne), ces nappes sont exposées au risque de salinisation en cas de surexploitation."
+                }
+            ]
+        },
+        "content2": {
+            "title" : "Les niveaux d’eau des nappes phréatiques varient selon plusieurs facteurs :",
+            "content" : [
+                {
+                    "subtitle" : "Les précipitations",
+                    "content" : "Une recharge insuffisante, due à des sécheresses prolongées, peut entraîner une baisse des niveaux. En 2022 et 2023, plusieurs nappes ont connu des déficits de recharge liés à des hivers secs et à une évapotranspiration accrue."
+                },
+                {
+                    "subtitle" : "Les prélèvements humains",
+                    "content" : "L’irrigation, l’industrie et l’eau potable exercent une pression importante sur ces ressources. Les nappes de Beauce et du sud-est de la France enregistrent des baisses significatives en raison de prélèvements intensifs et de sécheresses récurrentes."
+                },
+                {
+                    "subtitle" : "Le changement climatique ",
+                    "content" : "L’augmentation des températures et les modifications du régime des pluies affectent la recharge des nappes."
+                }
+            ]
+        },
+        "content3": {
+            "title" : "Les enjeux de gestion durable des nappes phréatiques",
+            "content" : [
+                {
+                    "subtitle" : "Limiter les prélèvements excessifs",
+                    "content" : "Les usages agricoles, notamment l’irrigation, représentent une grande part des prélèvements. La promotion de pratiques économes en eau est essentielle pour préserver les nappes."
+                },
+                {
+                    "subtitle" : "Lutter contre la pollution",
+                    "content" : "Les pesticides, nitrates et produits chimiques industriels peuvent contaminer les nappes phréatiques. Une réglementation stricte et des pratiques agricoles durables sont nécessaires pour limiter ces risques."
+                },
+                {
+                    "subtitle" : "Améliorer la recharge naturelle",
+                    "content" : "Des solutions comme la création de zones d’infiltration ou la restauration des zones humides peuvent améliorer la recharge des nappes."
+                },
+                {
+                    "subtitle" : "Anticiper les impacts du changement climatique",
+                    "content" : "Les modèles prévoient une baisse des ressources en eau dans certaines régions. Une planification à long terme est nécessaire pour adapter les usages et préserver les écosystèmes aquatiques."
+                }
+            ]
+        },
+        "synthesis" : [
+            {
+                "id" : "article_peziometre_1_synthesis_1",
+                "content" : "Les nappes phréatiques sont au cœur des enjeux hydriques en France. Leur gestion durable repose sur un équilibre entre les besoins humains et la préservation des écosystèmes."
+            },
+            {
+                "id" : "article_peziometre_1_synthesis_2",
+                "content" : "Chacun, à son niveau – citoyens, agriculteurs, industriels et décideurs – peut contribuer à une utilisation raisonnée de cette ressource précieuse."
+            }
+        ]
+    },
+    {
+        "id" : "article_peziometre_2",
+        "link" : "/peziometrie/art_2",
+        "img" : "/peziometrie_2.png",
+        "title" : "La Piézométrie : Comprendre les Niveaux d’Eau Sous-Terrains ?",
+        "resume" : "La piézométrie est une discipline essentielle pour comprendre et gérer les ressources en eau souterraines. Ce domaine de l'hydrogéologie étudie la distribution, le mouvement et la pression de l'eau dans les aquifères. Dans cet article, nous vous expliquons les bases de la piézométrie, son importance, et ses applications concrètes.",
+        "definition" : {
+            "title" : "Qu’est-ce que la piézométrie ?",
+            "content" : [
+                {
+                    "id" : "article_peziometre_2_def_1",
+                    "content" : "La piézométrie repose sur un concept simple : mesurer le niveau d'eau dans des puits ou forages pour déterminer la pression de l'eau dans un aquifère. Ces niveaux, appelés niveaux piézométriques, reflètent l'état de l'eau souterraine, sa quantité disponible et sa dynamique dans le sous-sol."
+                },
+                {
+                    "id" : "article_peziometre_2_def_2",
+                    "content" : "En pratique, ces niveaux sont exprimés par rapport à une référence, souvent le niveau de la mer, et permettent de tracer des cartes piézométriques qui indiquent la répartition spatiale de l’eau dans une région donnée."
+                }
+            ]
+        },
+        "content1": {
+            "title" : "Pourquoi la piézométrie est-elle importante ?",
+            "content" : [
+                {
+                    "subtitle" : "Gestion des ressources en eau",
+                    "content" : "La piézométrie est cruciale pour évaluer la disponibilité des ressources en eau souterraine. Elle aide à surveiller les variations des niveaux d'eau dues à l'extraction, aux conditions météorologiques ou à d'autres facteurs externes."
+                },
+                {
+                    "subtitle" : "Prévention des risques",
+                    "content" : "En suivant les fluctuations des niveaux piézométriques, il est possible d'anticiper des problèmes comme l'épuisement des nappes phréatiques ou les remontées d’eau qui pourraient inonder des zones urbaines ou agricoles."
+                },
+                {
+                    "subtitle" : "Protection de l’environnement",
+                    "content" : "Une baisse importante des niveaux piézométriques peut entraîner des effets négatifs sur les écosystèmes, comme le dessèchement de zones humides. La surveillance piézométrique permet d'adopter des mesures de gestion durable."
+                },
+                {
+                    "subtitle" : "Étude des contaminations",
+                    "content" : "La piézométrie est également utilisée pour suivre les flux d’eau et identifier la direction de propagation des polluants dans les nappes phréatiques, facilitant ainsi leur traitement."
+                }
+            ]
+        },
+        "content2": {
+            "title" : "Comment mesure-t-on les niveaux piézométriques ?",
+            "content" : [
+                {
+                    "subtitle" : "Piézomètres",
+                    "content" : "petits forages équipés pour observer et mesurer les niveaux d’eau dans un aquifère."
+                },
+                {
+                    "subtitle" : "Sondes piézométriques",
+                    "content" : "capteurs électroniques qui mesurent automatiquement les variations de niveau d’eau."
+                },
+                {
+                    "subtitle" : "Méthodes manuelles ",
+                    "content" : "par exemple, un ruban de mesure muni d’un capteur sonore ou lumineux."
+                }
+            ]
+        },
+        "content3": {
+            "title" : "Applications concrètes de la piézométrie",
+            "content" : [
+                {
+                    "subtitle" : "Aménagement du territoire",
+                    "content" : "Les données piézométriques sont utilisées pour concevoir des projets d’urbanisme en tenant compte des risques hydrologiques."
+                },
+                {
+                    "subtitle" : "Agriculture",
+                    "content" : "Les agriculteurs s’appuient sur la piézométrie pour gérer l’irrigation en fonction des ressources disponibles."
+                },
+                {
+                    "subtitle" : "Industrie",
+                    "content" : "Les exploitants industriels surveillent les nappes pour éviter d’épuiser les ressources ou contaminer l’environnement."
+                },
+                {
+                    "subtitle" : "Énergies renouvelables",
+                    "content" : "La géothermie de faible profondeur utilise des informations piézométriques pour garantir un approvisionnement stable en eau."
+                }
+            ]
+        },
+        "synthesis" : [
+            {
+                "id" : "article_peziometre_2_synthesis_1",
+                "content" : "La piézométrie est un outil central pour assurer une gestion durable de l’eau. Avec l'augmentation des besoins en eau et les impacts du changement climatique, il est indispensable de comprendre et de préserver les ressources en eau souterraine."
+            },
+            {
+                "id" : "article_peziometre_2_synthesis_2",
+                "content" : "En résumé, la piézométrie n’est pas seulement une technique scientifique, c’est un levier essentiel pour protéger une ressource vitale : l’eau. En surveillant et en gérant les niveaux d’eau souterrains, nous préparons un avenir où cette ressource sera accessible et préservée pour les générations futures."
+            }
+        ]
+    },
+    {
+        "id" : "article_peziometre_3",
+        "link" : "/peziometrie/art_3",
+        "img" : "/peziometrie_3.png",
+        "title" : "La qualité de l’eau dans les nappes phréatiques",
+        "resume" : "Les nappes phréatiques représentent une ressource essentielle pour l’approvisionnement en eau potable et l’équilibre des écosystèmes. Cependant, leur qualité a été mise à mal par les activités humaines au fil des décennies. Cet article retrace l’évolution de la qualité de l’eau dans les nappes phréatiques en France sur les 50 dernières années, analyse les principaux facteurs de dégradation et met en lumière les efforts pour leur préservation.",
+        "definition" : {
+            "title" : "Qu’est-ce qu’une nappe phréatique ?",
+            "content" : [
+                {
+                    "id" : "article_peziometre_1_def_1",
+                    "content" : "Une nappe phréatique est une réserve souterraine d’eau contenue dans un aquifère, une formation géologique poreuse qui permet l’accumulation et le déplacement de l’eau."
+                },
+                {
+                    "id" : "article_peziometre_1_def_2",
+                    "content" : "On distingue deux types de nappes à savoir les nappes libres (où l’eau est en contact direct avec l’atmosphère à travers le sol, sensibles aux variations climatiques) et les nappes captives (situées sous une couche imperméable, qui sont mieux protégées mais plus difficiles à exploiter)."
+                },
+                {
+                    "id" : "article_peziometre_1_def_3",
+                    "content" : "Les nappes phréatiques se rechargent principalement grâce aux précipitations qui infiltrent le sol."
+                }
+            ]
+        },
+        "content1": {
+            "title" : "Une dégradation progressive depuis les années 1970",
+            "content" : [
+                {
+                    "subtitle" : "Intensification agricole",
+                    "content" : "L’après-guerre a vu une industrialisation massive de l’agriculture, marquée par l’utilisation accrue des engrais chimiques (les nitrates issus des fertilisants se sont infiltrés dans les nappes, entraînant des concentrations parfois élevées) ainsi que par l’emploi intensif des pesticides (ces substances, persistantes, ont contaminé les nappes, posant des risques pour la santé humaine et les écosystèmes) "
+                },
+                {
+                    "subtitle" : "Urbanisation et industrialisation",
+                    "content" : "Avec l’essor démographique et économique, les rejets d’eaux usées non traitées et les pollutions industrielles ont accru la charge de polluants dans les nappes. Métaux lourds, hydrocarbures et autres substances toxiques ont souvent atteint les aquifères."
+                },
+                {
+                    "subtitle" : "Manque de réglementation jusqu’aux années 1990",
+                    "content" : "Avant les réglementations européennes et nationales renforcées, le contrôle de la qualité de l’eau était insuffisant. Les premières directives sur les eaux souterraines datent des années 1980, mais leur application a pris du temps."
+                }
+            ]
+        },
+        "content2": {
+            "title" : "CLes grands polluants des nappes phréatiques",
+            "content" : [
+                {
+                    "subtitle" : "Les nitrates",
+                    "content" : "Les nitrates proviennent des fertilisants agricoles et rejets d’élevages avec une possible eutrophisation des cours d’eau et des risques pour la santé (méthémoglobinémie, potentiels effets cancérigènes)"
+                },
+                {
+                    "subtitle" : "Les pesticides",
+                    "content" : "Les pesticides ont pour origine l'agriculture et la gestion des espaces verts avec pour potentiels impacts la contamination durable des nappes avec des effets sur la biodiversité et des risques de perturbations endocriniennes chez l’humain"
+                },
+                {
+                    "subtitle" : "Les polluants industriels",
+                    "content" : "Les polluants industriels peuvent provenir des décharges, des zones industrielles ou encore d'accidents de pollution qui peuvent entrainer la présence de métaux lourds, solvants et hydrocarbures pouvant affecter la potabilité de l’eau. "
+                },
+                {
+                    "subtitle" : "Les micropolluants émergents",
+                    "content" : "Ils proviennent des produits pharmaceutiques, cosmétiques, perturbateurs endocriniens. Ces substances, récemment détectées, soulèvent des inquiétudes croissantes quant à leurs effets à long terme "
+                }
+            ]
+        },
+        "content3": {
+            "title" : "Une prise de conscience et des améliorations depuis les années 2000",
+            "content" : [
+                {
+                    "subtitle" : "Renforcement des réglementations",
+                    "content" : "En Europe, la directive-cadre sur l’eau (2000) impose aux États membres de garantir un \"bon état écologique\" des ressources hydriques. En France, des politiques comme les Plans d’action nitrates ont contribué à limiter les excès d’engrais azotés"
+                },
+                {
+                    "subtitle" : "Amélioration des systèmes d’assainissement",
+                    "content" : "Depuis les années 1990, le traitement des eaux usées a été largement renforcé, réduisant les pollutions directes dans les nappes phréatiques."
+                },
+                {
+                    "subtitle" : "Réduction de l’usage des pesticides",
+                    "content" : "Des restrictions sur les produits les plus nocifs et la promotion de l’agroécologie commencent à porter leurs fruits."
+                },
+                {
+                    "subtitle" : "Suivi renforcé de la qualité des eaux souterraines",
+                    "content" : "Des réseaux de surveillance, comme celui de l’Agence nationale de l’eau et des milieux aquatiques (ONEMA, maintenant intégré à l’OFB), permettent de mieux comprendre les évolutions de la qualité."
+                }
+            ]
+        },
+        "synthesis" : [
+            {
+                "id" : "article_peziometre_3_synthesis_1",
+                "content" : "Les nappes phréatiques, particulièrement celles captives, se régénèrent lentement. Les polluants introduits il y a plusieurs décennies sont encore présents"
+            },
+            {
+                "id" : "article_peziometre_3_synthesis_2",
+                "content" : "Les nitrates et les pesticides issus de l’agriculture restent des problématiques majeures, surtout dans les régions à forte activité agricole comme le bassin parisien ou la Bretagne"
+            },
+            {
+                "id" : "article_peziometre_3_synthesis_3",
+                "content" : "L’évolution de la qualité des nappes phréatiques en France montre un progrès encourageant grâce aux efforts réglementaires et techniques, mais de nombreux défis restent à relever. La protection de cette ressource vitale repose sur des actions concertées et sur une vigilance constante face aux nouvelles menaces"
+            }
+        ]
+    }
+]

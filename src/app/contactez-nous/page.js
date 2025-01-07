@@ -3,7 +3,7 @@
 import theme from "../assets/theme"
 import { Typography, Stack, Divider, Box, FormControl, TextField, Button } from "@mui/material"
 import Image from "next/image"
-import photo1 from "../assets/image/LogoCompleted.png"
+import photo1 from "../assets/image/favicon.ico"
 import SendIcon from '@mui/icons-material/Send'
 import { sendEmail } from "../lib/actions"
 import { useEffect } from "react"

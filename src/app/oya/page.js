@@ -2,10 +2,10 @@
 
 import { Typography, Stack, Box, Divider } from "@mui/material"
 import theme from "../assets/theme"
-import IconsBox from "../components/IconsBox"
-import ImagesList from "../components/ImagesList"
-import OyasArgument from "../components/OyasArguments"
-import AdvisesUses from "../components/AdvisesUses"
+import IconsBox from "../components/oya/IconsBox"
+import ImagesList from "../components/oya/ImagesList"
+import OyasArgument from "../components/oya/OyasArguments"
+import AdvisesUses from "../components/oya/AdvisesUses"
 
 
 export default function Home() {

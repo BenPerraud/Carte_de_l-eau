@@ -1,0 +1,529 @@
+[
+    {
+        "id" : "article_secheresse_1",
+        "link" : "/secheresse/art_1",
+        "img" : "/secheresse_1.webp",
+        "title" : "Les ressources en eau renouvelable en France : comprendre et agir",
+        "resume" : "L’eau est une ressource essentielle à la vie et un pilier de nos activités économiques et environnementales. En France, les ressources en eau renouvelable jouent un rôle clé dans l’approvisionnement en eau potable, l’irrigation agricole et la production d’énergie. Cet article explore ce qu’est une ressource en eau renouvelable, sa situation en France et les défis à relever pour une gestion durable.",
+        "definition" : {
+            "title" : "Qu’est-ce qu’une ressource en eau renouvelable ?",
+            "content" : [
+                {
+                    "id" : "article_secheresse_1_def_1",
+                    "content" : "Une ressource en eau renouvelable correspond à l’eau douce disponible de manière naturelle grâce au cycle de l’eau. Ce cycle implique principalement les précipitations, l’évaporation, l’infiltration dans les sols, et le ruissellement vers les rivières, lacs et nappes phréatiques. Contrairement aux ressources fossiles comme les nappes aquifères anciennes, ces ressources se régénèrent à l’échelle humaine, à condition qu’elles ne soient pas surexploitées."
+                },
+                {
+                    "id" : "article_secheresse_1_def_2",
+                    "content" : "La ressource en eau renouvelable est la totalité de l’eau douce qui entre sur un territoire par le cycle naturel de l’eau : les cours d’eau et les précipitations qui ne retournent pas dans l’atmosphère" 
+                }
+            ]
+        },
+        "content1": {
+            "title" : "Flux entrant d'eau et eau renouvelable",
+            "content" : [
+                {
+                    "subtitle" : "Le flux d'eau entrant en France",
+                    "content" : "Sur les 500 milliards de m³ d’eau qui entrent en France chaque année, environ 40% (soit +/- 200 mds de m³) est convertie naturellement en eau renouvelable pour une utilisation domestique, industrielle ou encore agricole.",
+                    "source" : "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2022-06/datalab_102_ressources_en_eau_juin2022.pdf"
+                },
+                {
+                    "subtitle" : "Une ressource abondante en France",
+                    "content" : "Sur les 200 Mdm³ de ressource en eau renouvelable, il est estimé que 50% est nécessaire à la vie des écosystèmes naturels. Les activités humaines prélèvent +/- 15% du total. La ressource est donc abondante en France. Cependant, les plus forts prélèvements d’eau ont lieu en été lorsque la disponibilité de la ressource est la plus faible, ce qui peut provoquer des situations de stress hydrique localement, aggravées par des épisodes météorologiques extrêmes (sécheresse).",
+                    "source" : "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2022-06/datalab_102_ressources_en_eau_juin2022.pdf"
+                },
+                {
+                    "subtitle" : "Une abondance en diminution",
+                    "content" : "Une grande partie de l'eau renouvelable n’est cependant pas exploitable pour les usages humains car absolument nécessaire au bon fonctionnement des milieux aquatiques et des nappes d’eau souterraine ainsi qu’aux conditions de vie des végétaux et des animaux qui en dépendent. Entre les périodes 1990/2001 et 2002/2018, la moyenne du volume annuel d’eau renouvelable a diminué de 14%, passant de 229 mds de m³ à 197 mds de m³. Cela est principalement expliqué par la hausse moyenne des températures (évapotranspiration de l’eau) couplé à une baisse des précipitations en automne (période de réalimentation des nappes d’eau souterraine) sur 49% du territoire français.",
+                    "source" : "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2022-06/datalab_102_ressources_en_eau_juin2022.pdf"
+                }
+            ]
+        },
+        "content2": {
+            "title" : "Les défis d’une gestion durable",
+            "content" : [
+                {
+                    "subtitle" : "Changement climatique",
+                    "content" : "Les épisodes de sécheresse deviennent plus fréquents et intenses, tandis que les précipitations se concentrent davantage sur des périodes courtes, augmentant les risques d’inondations. Ces phénomènes mettent à mal la capacité de renouvellement des ressources. Pour rappel, la sécheresse est un épisode de manque d’eau plus ou moins long, mais suffisant pour que les sols et la flore soient affectés. Ce phénomène peut être cyclique ou exceptionnel et entraîne des conséquences variées : assèchement des cours d’eau, déstabilisation des milieux naturels, impact sur l’approvisionnement en eau potable, augmentation du risque d’incendies, etc.",
+                    "source": "https://www.ecologie.gouv.fr/actualites/secheresse-france"
+                },
+                {
+                    "subtitle" : "Pression démographique et économique",
+                    "content" : "L’urbanisation croissante et les besoins agricoles et industriels augmentent la demande en eau. Dans certaines régions, cela conduit à un déséquilibre entre les ressources disponibles et les usages. Sans entrer dans le détail de la consommation d'eau en France, la population de la France métropolitaine a franchi le seuil de 50 millions d'habitants en 1968. Elle a augmenté de près d'un tiers depuis et atteint 68.4 millions en 2024. Pour autant, le volume d'eau renouvelable n'a pas augmenté, voire comme vu précedemment, observe une pente descendante.",
+                    "source" : "https://www.insee.fr/fr/statistiques/7750004"
+                },
+                {
+                    "subtitle" : "Qualité de l’eau",
+                    "content" : "La pollution, qu’elle soit agricole (pesticides, nitrates) ou industrielle, altère les ressources disponibles. La gestion des polluants et des infrastructures de traitement reste un enjeu majeur. Les rejets des stations d’épuration urbaines ou industrielles, les pollutions diffuses d’origine agricole ou dues à des retombées atmosphériques engendrent la présence de macropolluants comme les nitrates et les phosphates ainsi que de micropolluants comme les pesticides, les résidus de médicaments, de produits d’entretien, etc.",
+                    "source" : "https://www.statistiques.developpement-durable.gouv.fr/pollution-de-leau"
+                }
+            ],
+            "chart" : {
+                "title" : "Evolution de la température moyenne en France",
+                "subtitle" : "Données exprimées en degrés Celsus",
+                "source" : "Météo-France",
+                "getMore" : "https://www.ecologie.gouv.fr/politiques-publiques/impacts-du-changement-climatique-atmosphere-temperatures-precipitations",
+                "data" : [
+                    {
+                        "name" : "1951-1980",
+                        "uv" : 11.6
+                    },
+                    {
+                        "name" : "1961-1990",
+                        "uv" : 11.8
+                    },
+                    {
+                        "name" : "1971-2000",
+                        "uv" : 12.1
+                    },
+                    {
+                        "name" : "1981-2010",
+                        "uv" : 12.5
+                    },
+                    {
+                        "name" : "1991-2020",
+                        "uv" : 12.9
+                    }
+                ]
+            }
+        },
+        "content3": {
+            "title" : "Solutions pour une gestion efficace",
+            "content" : [
+                {
+                    "subtitle" : "Protéger les milieux aquatiques",
+                    "content" : "Restaurer les zones humides et les cours d’eau permet de maintenir un cycle de l’eau équilibré et une biodiversité riche. Selon le rapport d'évaluation sur les zones humides du Comité interministériel de l'évaluation des politiques publiques, il est estimé que la moitié des zones humides en France a disparu entre les années 1960 et 1990.",
+                    "source" : "https://www.zones-humides.org/sites/default/files/a9r8.tmp_.pdf"
+                },
+                {
+                    "subtitle" : "Anticiper les risques",
+                    "content" : "Des politiques de gestion intégrée des bassins versants doivent être mises en place pour coordonner les prélèvements et adapter l’usage en fonction des conditions climatiques.",
+                    "source" : "https://www.oieau.fr/eaudoc/system/files/34225.pdf"
+                },
+                {
+                    "subtitle" : "Promouvoir la recherche et l’innovation",
+                    "content" : "Investir dans des technologies d’assainissement et de gestion des ressources, comme les capteurs intelligents pour surveiller les niveaux d’eau pour les régions en stress hydrique.",
+                    "source" : "https://www.info.gouv.fr/grand-dossier/preservons-notre-ressource-en-eau/les-53-mesures-du-plan-eau"
+                }
+            ]
+        },
+        "synthesis" : [
+            {
+                "id" : "article_secheresse_1_synthesis_1",
+                "content" : "La ressource en eau renouvelable est suffisante en France hormis lors de la période estivale à cause des prélèvements humains"
+            },
+            {
+                "id" : "article_secheresse_1_synthesis_2",
+                "content" : "Depuis 2000, le volume d’eau renouvelable par an en France a diminué de 14%"
+            },
+            {
+                "id" : "article_secheresse_1_synthesis_3",
+                "content" : "Cette baisse s'explique par la hausse moyenne des températures qui génère une évapotranspiration plus importante"
+            }
+        ]
+    },
+    {
+        "id" : "article_secheresse_2",
+        "link" : "/secheresse/art_2",
+        "img" : "/secheresse_2.webp",
+        "title" : "Différences entre eau prélevée et eau consommée",
+        "resume" : "L'eau est une ressource vitale et précieuse, dont la gestion est un enjeu majeur en France et dans le monde. Parmi les notions clés à comprendre dans le cadre de la gestion de l’eau, figurent celles d’eau prélevée et d’eau consommée. Si ces deux termes semblent proches, ils désignent des réalités très différentes. Cet article explique leur distinction, leur importance et leur impact sur la gestion durable de l’eau en France.",
+        "definition" : {
+            "title" : "Eau prélevée et eau consommée : définition et usages",
+            "content" : [
+                {
+                    "id" : "article_secheresse_2_def_1",
+                    "content" : "L’eau prélevée correspond à la quantité d’eau retirée des milieux naturels, tels que les rivières, les lacs, les nappes phréatiques ou les réservoirs, pour répondre aux besoins humains."
+                },
+                {
+                    "id" : "article_secheresse_2_def_2",
+                    "content" : "L’eau consommée, en revanche, désigne l’eau qui est prélevée mais qui ne retourne pas directement dans le milieu naturel après usage. Elle est retenue de manière permanente dans un produit (comme dans l’agriculture ou certaines industries) ou perdue par évaporation" 
+                },
+                {
+                    "id" : "article_secheresse_2_def_3",
+                    "content" : "En d'autres termes, une grande partie de l’eau prélevée peut être restituée à son milieu d’origine après utilisation, sous forme d’eau usée traitée, mais l’eau consommée est définitivement soustraite au cycle hydrologique local." 
+                }
+            ]
+                
+        },
+        "content1": {
+            "title" : "30 milliards de m³ d’eau sont prélevés chaque année",
+            "content" : [
+                {
+                    "subtitle" : "A quoi sert l'eau prélevée ?",
+                    "content" : "On estime qu’environ 30 milliards de m³ d’eau sont prélevés chaque année en France pour répondre aux besoins (eau potable, agriculture, production d’énergie, industrie). La moitié de cette eau prélevée est utilisée pour le refroidissement des centrales électriques. Producton d'électricité incluse, les prélèvements d'eau proviennent à 82% des eaux de surfaces et à 18% des eaux souterraines. Hors refroidissement des centrales électriques et alimentation des canaux fluviaux, les prélèvements d’eau douce mobilisent globalement autant les eaux souterraines que les eaux de surface (rivières, lacs, canaux, retenue, etc.).",
+                    "source" : "https://www.statistiques.developpement-durable.gouv.fr/les-prelevements-deau-douce-par-usages-en-france-en-2021"
+                }
+            ],
+            "chart" : {
+                "title" : "Répartition des volumes d'eau prélevée par usages en France en 2021",
+                "subtitle" : "Données exprimées en milliards de m³",
+                "source" : "Banque nationale des prélèvements en eaux (BNPE), OFB, traitements SDES 2024",
+                "getMore" : "https://www.eaufrance.fr/sites/default/files/2023-11/infographie_bnpe_2020_1.pdf",
+                "data" : [
+                    {"name" : "Refroidissement des centrales électriques : 14.5", "size": 14.5},
+                    {"name" : "Alimentation canaux fluviaux : 5.2", "size" : 5.2},
+                    {"name" : "Production eau potable : 5.6", "size" : 5.6},
+                    {"name" : "Usages agricoles : 2.6", "size" : 2.6},
+                    {"name" : "Usages industriels : 2.3", "size" : 2.3}
+                ]
+            }
+        },
+        "content2": {
+            "title" : "Evolution des prélèvements d'eau douce par usage",
+            "content" : [
+                {
+                    "subtitle" : "Une grande partie de l'eau prélevée est restituée à la nature",
+                    "content" : "En France, il est consommé 4,1 milliards de m³ d’eau par an, soit 12% de l’eau prélevée, avec l’agriculture pour principale activité consommatrice (58%) devant l’approvisionnement en eau potable (26%).",
+                    "source" : "www.terraoya.fr"
+                },
+                {
+                    "subtitle" : "Agriculture et production d'eau potable",
+                    "content" : "85% de l’eau consommée est destinée l’agriculture et la production d’eau potable notamment durant la saison estivale lorsque le flux entrant d’eau en France est le plus faible",
+                    "source" : "www.terraoya.fr"
+                }
+            ]
+        },
+        "chart2Type" : "Single Treemap",
+        "chart2" : 
+            [
+                {
+                    "name" : "Eau consommée en France par an (4.1 Mds de m³)",
+                    "children" : [
+                        { "name" : "Usages agricoles", "size": 58},
+                        { "name" : "Production eau potable", "size": 26},
+                        { "name" : "Refroidissement des centrales électriques", "size": 12},
+                        { "name" : "Usages industriels", "size": 4}
+                    ]
+                }
+            ],
+        "content3": {
+            "title" : "Pourquoi cette distinction est-elle importante ?",
+            "content" : [
+                {
+                    "subtitle" : "Évaluation de l’impact environnemental",
+                    "content" : "La restitution de l’eau prélevée au milieu naturel (même après traitement) atténue son impact, tandis que l’eau consommée correspond à une perte nette pour le bassin hydrologique.",
+                    "source" : "www.terraoya.fr"
+                },
+                {
+                    "subtitle" : "Gestion des ressources locales",
+                    "content" : "Les régions où la consommation d’eau est élevée (et non simplement les prélèvements) risquent de connaître des tensions hydriques, surtout en cas de sécheresse.",
+                    "source" : "www.terraoya.fr"
+                },
+                {
+                    "subtitle" : "Adaptation aux enjeux climatiques",
+                    "content" : "Avec le changement climatique, il devient crucial de limiter non seulement les prélèvements inutiles mais aussi la consommation effective, notamment dans des secteurs comme l’agriculture.",
+                    "source" : "www.terraoya.fr"
+                }
+            ]
+        },
+        "synthesis" : [
+            {
+                "id" : "article_secheresse_2_synthesis_1",
+                "content" : "L'eau consommée n'est pas restituée aux milieux aquatiques à la différence de l'eau prélevée"
+            },
+            {
+                "id" : "article_secheresse_2_synthesis_2",
+                "content" : "Sur les 33 milliards de m³ d'eau prélevée chaque année, 12% sont consommés (4.1 milliards de m³ d'eau)"
+            },
+            {
+                "id" : "article_secheresse_2_synthesis_3",
+                "content" : "L'agriculture et la production d'eau potable représente 85% de l'eau consommée en France chaque année"
+            }
+        ]
+    },
+    {
+        "id" : "article_secheresse_3",
+        "link" : "/secheresse/art_3",
+        "img" : "/secheresse_3.webp",
+        "title" : "Les Arrêtés Préfectoraux Sécheresse en France",
+        "resume" : "Face aux épisodes de sécheresse de plus en plus fréquents et intenses en France, les arrêtés préfectoraux sécheresse jouent un rôle clé dans la gestion de l'eau. Ces mesures réglementaires visent à prévenir les pénuries et à protéger les milieux aquatiques en période de stress hydrique. Cet article explique leur fonctionnement, leur évolution, et leur importance dans le contexte actuel du changement climatique.",
+        "definition" : {
+            "title" : "Qu’est-ce qu’un arrêté préfectoral sécheresse ?",
+            "content" : [
+                {
+                    "id" : "article_secheresse_3_def_1",
+                    "content" : "Un arrêté préfectoral sécheresse est une mesure prise par le préfet d’un département pour limiter certains usages de l’eau en cas de baisse significative des ressources hydriques (cours d’eau, nappes phréatiques, barrages, etc.). Ces arrêtés s’appuient sur le Plan National d’Action Sécheresse (PNAS) et sont adaptés aux particularités locales du territoire concerné."
+                },
+                {
+                    "id" : "article_secheresse_3_def_2",
+                    "content" : "Les objectifs principaux sont d'assurer l’approvisionnement en eau potable pour la population, préserver les milieux aquatiques, qui souffrent des effets directs des sécheresses (assèchement, baisse de la biodiversité) et réguler les usages non prioritaires pour éviter des pénuries"
+                },
+                {
+                    "id" : "article_secheresse_3_def_3",
+                    "content" : "Les arrêtés préfectoraux sécheresse s’appuient sur une surveillance étroite des indicateurs hydrologiques, météorologiques et climatiques : les niveaux des cours d’eau (débit, étiage), les nappes phréatiques, qui peuvent mettre des mois à se recharger et enfin les prévisions météorologiques."
+                },
+                {
+                    "id" : "article_secheresse_3_def_4",
+                    "content" : "Le préfet s’appuie également sur les recommandations des Comités départementaux de gestion de l’eau (CDGE), qui regroupent des représentants des services de l’État, des collectivités, des usagers, et des experts scientifiques." 
+                }
+            ]
+        },
+        "content1": {
+            "title" : "Quatre niveaux de restriction",
+            "content" : [
+                {
+                    "subtitle" : "Vigilance",
+                    "content" : "Mesure préventive sans restriction obligatoire et incitation à économiser l’eau pour tous les usagers (domestiques, agricoles, industriels).",
+                    "source": "https://vigieau.gouv.fr/"
+                },
+                {
+                    "subtitle" : "Alerte",
+                    "content" : "Réduction de certains usages non prioritaires (limitation de l’arrosage des jardins, pelouses et terrains de sport, restriction pour le remplissage des piscines privées) et baisse des prélèvements agricoles (généralement de 50 %).",
+                    "source": "https://vigieau.gouv.fr/"
+                },
+                {
+                    "subtitle" : "Alerte renforcée",
+                    "content" : "Restrictions plus strictes avec interdiction de l’arrosage à certaines heures, réduction importante des prélèvements pour l’agriculture (jusqu’à 70 %) et limitations pour les activités industrielles.",
+                    "source": "https://vigieau.gouv.fr/"
+                },
+                {
+                    "subtitle" : "Crise",
+                    "content" : "Mesures d’urgence avec arrêt total des prélèvements non prioritaires et maintien exclusif des usages essentiels (alimentation en eau potable, sécurité civile, santé publique).",
+                    "source": "https://vigieau.gouv.fr/"
+                }
+            ]
+        },
+        "content2": {
+            "title" : "Les évolutions récentes des arrêtés sécheresse",
+            "content" : [
+                {
+                    "subtitle" : "Fréquence accrue des arrêtés sécheresse",
+                    "content" : "Avec le réchauffement climatique, la France connaît des sécheresses plus fréquentes, longues et intenses. En 2022, 93 départements sur 96 ont été soumis à des restrictions d’eau à un moment donné de l’année, une situation sans précédent. Pour re-contextualiser, l’été 2022 démarre avec des nappes d’eau souterraine insuffisamment réalimentées, à cause d’une succession de mois plus chauds et plus secs que la normale depuis l’automne 2021.",
+                    "source": "https://www.notre-environnement.gouv.fr/themes/economie/l-utilisation-des-ressources-naturelles-ressources/article/gestion-de-l-eau-en-periode-de-secheresse-en-france-metropolitaine-6326"
+                },
+                {
+                    "subtitle" : "Renforcement des mesures de suivi",
+                    "content" : "Mise en place d’outils comme le portail VigiEau, qui centralise les arrêtés en vigueur par département et informe les usagers en temps réel et développement de modélisations climatiques pour mieux anticiper les épisodes de sécheresse. On retrouvera sur cet outil proposé par le gouvervement des conseils et des outils pour limiter notre consommation d'eau.",
+                    "source": "https://vigieau.gouv.fr/"
+                },
+                {
+                    "subtitle" : "Adaptation aux réalités locales",
+                    "content" : "Les arrêtés sont désormais plus ciblés, avec une prise en compte fine des spécificités locales comme la différenciation selon les bassins hydrographiques ou encore la flexibilité pour certaines activités agricoles stratégiques. On notera qu'un guide circulaire a été créé pour orienter au mieux la prise de décision en période de crise. Il vise à optimiser l’organisation de la gestion de la crise et gérer les situations de pénurie en assurant, dans le respect des équilibres naturels, les usages prioritaires de santé, sécurité civile et d’approvisionnement en eau potable, tout en conciliant les usages dans les territoires et la nécessaire solidarité amont-aval des bassins versants",
+                    "source": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide%20circulaire%20secheresse-conforme1605.pdf"
+                }
+            ],
+            "chart" : {
+                "title" : "Départements français touchés par des arrêtés préfectoraux de restrictions des usages de l'eau (niveau supérieur à Vigilance)",
+                "subtitle" : "maximum des départements métropolitains concernés entre les mois de Juillet et Septembre",
+                "source" : "Propluvia, Ministère en charge de l’écologie, Ministère en charge de l’agriculture (traitements : SDES, 2023)",
+                "getMore" : "https://www.notre-environnement.gouv.fr/themes/economie/l-utilisation-des-ressources-naturelles-ressources/article/gestion-de-l-eau-en-periode-de-secheresse-en-france-metropolitaine-6326",
+                "data" : [
+                    {
+                        "name" : "2002",
+                        "uv" : 30
+                    },
+                    {
+                        "name" : "2003",
+                        "uv" : 74
+                    },
+                    {
+                        "name" : "2004",
+                        "uv" : 48
+                    },
+                    {
+                        "name" : "2005",
+                        "uv" : 68
+                    },
+                    {
+                        "name" : "2006",
+                        "uv" : 64
+                    },
+                    {
+                        "name" : "2007",
+                        "uv" : 27
+                    },
+                    {
+                        "name" : "2008",
+                        "uv" : 26
+                    },
+                    {
+                        "name" : "2009",
+                        "uv" : 50
+                    },
+                    {
+                        "name" : "2010",
+                        "uv" : 52
+                    },
+                    {
+                        "name" : "2011",
+                        "uv" : 72
+                    },
+                    {
+                        "name" : "2012",
+                        "uv" : 50
+                    },
+                    {
+                        "name" : "2013",
+                        "uv" : 27
+                    },
+                    {
+                        "name" : "2014",
+                        "uv" : 25
+                    },
+                    {
+                        "name" : "2015",
+                        "uv" : 71
+                    },
+                    {
+                        "name" : "2016",
+                        "uv" : 52
+                    },
+                    {
+                        "name" : "2017",
+                        "uv" : 82
+                    },
+                    {
+                        "name" : "2018",
+                        "uv" : 57
+                    },
+                    {
+                        "name" : "2019",
+                        "uv" : 84
+                    },
+                    {
+                        "name" : "2020",
+                        "uv" : 77
+                    },
+                    {
+                        "name" : "2021",
+                        "uv" : 42
+                    },
+                    {
+                        "name" : "2022",
+                        "uv" : 93
+                    }
+                ]
+            }
+        },
+        "content3": {
+            "title" : "Défis et perspectives",
+            "content" : [
+                {
+                    "subtitle" : "Changement climatique",
+                    "content" : "Le réchauffement planétaire accentue les déséquilibres hydriques en France. Même en hiver, des périodes prolongées de déficit pluviométrique rendent les ressources moins disponibles pour l’été. Au delà de déficits hydrométriques observés, ce sont les phénomènes extrêmes qui empêchent un rechargement continu des nappes phréatiques (situation d'inondations ou situation de sécheresse, cf graphique ci-dessous).",
+                    "source": "https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-des-risques-naturels-edition-2023"
+                },
+                {
+                    "subtitle" : "Acceptation sociale",
+                    "content" : "Les restrictions imposées par les arrêtés sécheresse suscitent parfois des tensions, en particulier dans les secteurs agricole et touristique. Une meilleure communication et sensibilisation des usagers est essentielle pour garantir leur adhésion. Dans tous les cas, la prévention et l'éducation à une consommation raisonnée sont obligatoires pour éviter les tensions demain.",
+                    "source": "https://www.cieau.com/le-metier-de-leau/usages-consommation-conseils/calculateur-consommation-eau-annuelle/"
+                },
+                {
+                    "subtitle" : "Préservation des écosystèmes",
+                    "content" : "Les milieux aquatiques, fragilisés par les sécheresses, nécessitent des mesures spécifiques pour garantir leur résilience. La restauration des zones humides, par exemple, peut jouer un rôle clé pour réguler les cycles de l’eau.",
+                    "source": "https://biodiversite.gouv.fr/mesure-25-restaurer-les-zones-humides"
+                }
+            ],
+            "chart" : {
+                "title" : "Evolution du nombre de reconnaissances de l'état de catastrophe naturelle pour l'aléa Sécheresse en France",
+                "subtitle" : "Moyenne mobile 10 ans du nombre de reconnaissance (année 2003 exclue)",
+                "source" : "Service des Données et Études Statistiques (SDES) en partenariat avec l'Observatoire national des risques naturels (ONRN), traitement Carte de l'Eau",
+                "getMore" : "https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-des-risques-naturels-edition-2023",
+                "data" : [
+                    {
+                        "name" : "1998",
+                        "uv" : 965
+                    },
+                    {
+                        "name" : "1999",
+                        "uv" : 955
+                    },
+                    {
+                        "name" : "2000",
+                        "uv" : 779
+                    },
+                    {
+                        "name" : "2001",
+                        "uv" : 663
+                    },
+                    {
+                        "name" : "2002",
+                        "uv" : 628
+                    },
+                    {
+                        "name" : "2004",
+                        "uv" : 607
+                    },
+                    {
+                        "name" : "2005",
+                        "uv" : 787
+                    },
+                    {
+                        "name" : "2006",
+                        "uv" : 694
+                    },
+                    {
+                        "name" : "2007",
+                        "uv" : 600
+                    },
+                    {
+                        "name" : "2008",
+                        "uv" : 438
+                    },
+                    {
+                        "name" : "2009",
+                        "uv" : 490
+                    },
+                    {
+                        "name" : "2010",
+                        "uv" : 475
+                    },
+                    {
+                        "name" : "2011",
+                        "uv" : 725
+                    },
+                    {
+                        "name" : "2012",
+                        "uv" : 724
+                    },
+                    {
+                        "name" : "2013",
+                        "uv" : 654
+                    },
+                    {
+                        "name" : "2014",
+                        "uv" : 648
+                    },
+                    {
+                        "name" : "2015",
+                        "uv" : 463
+                    },
+                    {
+                        "name" : "2016",
+                        "uv" : 530
+                    },
+                    {
+                        "name" : "2017",
+                        "uv" : 715
+                    },
+                    {
+                        "name" : "2018",
+                        "uv" : 1109
+                    },
+                    {
+                        "name" : "2019",
+                        "uv" : 1354
+                    },
+                    {
+                        "name" : "2020",
+                        "uv" : 1605
+                    },
+                    {
+                        "name" : "2021",
+                        "uv" : 1403
+                    }
+                ]
+            }
+        },
+        "synthesis" : [
+            {
+                "id" : "article_secheresse_3_synthesis_1",
+                "content" : "Les arrêtés préfectoraux sécheresse sont des outils indispensables pour gérer les tensions sur l’eau en France, en particulier face aux défis posés par le changement climatique. Toutefois, ils ne peuvent être pleinement efficaces qu’en complément d’une gestion proactive et collective de la ressource, qui repose autant sur des mesures structurelles que sur un changement des comportements individuels et collectifs."
+            },
+            {
+                "id" : "article_secheresse_3_synthesis_2",
+                "content" : "En 20 ans, le nombre de départements concernés par les restrictions d’eau durant l’été n’a fait qu’augmenté"
+            }
+        ]
+    }
+]

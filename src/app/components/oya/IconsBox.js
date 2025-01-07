@@ -1,7 +1,7 @@
 'use client'
 
 import { Typography, Stack, Box, Divider } from "@mui/material"
-import theme from "../assets/theme"
+import theme from "../../assets/theme"
 import LocalShippingIcon from '@mui/icons-material/LocalShipping'
 import CreditScoreIcon from '@mui/icons-material/CreditScore'
 import YardIcon from '@mui/icons-material/Yard';

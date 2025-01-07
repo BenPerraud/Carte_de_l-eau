@@ -2,7 +2,7 @@
 
 import { Stack, Typography } from "@mui/material"
 import AdvisesAccordion from "./AdvisesAccordion"
-import advices from "../assets/texts/advices.json"
+import advices from "../../assets/texts/advices.json"
 
 export default function AdvisesUses () {
 
