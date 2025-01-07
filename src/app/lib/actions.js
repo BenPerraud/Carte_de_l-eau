@@ -1,4 +1,5 @@
-"use server"
+'use client'
+
 import { Resend } from "resend"
 import EmailContact from "../../../react-email-starter/emails/EmailContact"
 
