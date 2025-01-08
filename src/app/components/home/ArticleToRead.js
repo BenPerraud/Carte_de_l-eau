@@ -30,7 +30,7 @@ export default function ArticleToRead() {
         <Stack sx={{backgroundColor: theme.palette.secondary.light, alignItems: "center"}}>
             <Stack
                 direction= "row"
-                width={900}
+                width={1000}
                 height={300}
                 padding={1}
                 sx={{
@@ -46,7 +46,7 @@ export default function ArticleToRead() {
                         sizes='(max-width: 500px) 100vw, (max-width: 1200px) 50vw, 33vw'
                         />
                 </div>
-                <Stack sx={{maxWidth: 400}} padding={2} spacing={2}>
+                <Stack sx={{maxWidth: 500}} padding={2} spacing={2}>
                     <Stack 
                         divider={<Divider sx={{width:"20%"}}/>}
                         spacing={1}

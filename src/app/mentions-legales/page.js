@@ -30,7 +30,7 @@ export default function legals() {
     <Stack direction="column" spacing={3} sx={stack}>
       <Typography variant="h4" sx={title}>Mentions légales</Typography>
       <Typography variant="subtitle1" sx={textContent}>
-      Conformément aux dispositions des articles 6-III et 19 de la Loi n° 2004-575 du 21 juin 2004 pour la Confiance dans l'économie numérique, dite L.C.E.N., nous portons à la connaissance des utilisateurs et visiteurs du site : www.terra-oya.com les informations suivantes :
+      Conformément aux dispositions des articles 6-III et 19 de la Loi n° 2004-575 du 21 juin 2004 pour la Confiance dans l'économie numérique, dite L.C.E.N., nous portons à la connaissance des utilisateurs et visiteurs du site : www.cartedeleau.fr les informations suivantes :
       </Typography>
       {texts.map((text) =>
         <Stack direction="column" spacing={1} key={text.title}>
