@@ -1,0 +1,6 @@
+
+userAgent: "*",
+allow: "/",
+disallow: "/private/"
+
+sitemap: "https://cartedeleau.fr/sutemap.xml"
