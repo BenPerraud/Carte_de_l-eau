@@ -198,11 +198,6 @@
                 "title": "Informations légales",
                 "pages": [
                     {
-                        "content" : "Contactez-nous",
-                        "link" : "/contactez-nous",
-                        "target":"_self"
-                    },
-                    {
                         "content" : "Mentions légales",
                         "link" : "/mentions-legales",
                         "target":"_self"

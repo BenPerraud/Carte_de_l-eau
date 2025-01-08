@@ -6,7 +6,6 @@ import ArticleToRead from './components/home/ArticleToRead'
 
 
 export default function Home () {
-
    
     return (
        <Stack 
